@@ -12,7 +12,7 @@ abbr dps docker ps
 # git周り
 abbr gin git init
 abbr gst git status
-abbr gcm git commit -m " "
+abbr gcm git commit -m
 abbr gad git add
 abbr gme git merge
 abbr gsw git switch
