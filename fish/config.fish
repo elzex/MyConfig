@@ -18,6 +18,4 @@ source /Users/dgelzex/.config/fish/user/abbr.fish
 source /opt/homebrew/opt/asdf/libexec/asdf.fish
 
 zoxide init fish | source
-# bun
-set --export BUN_INSTALL "$HOME/.bun"
-set --export PATH $BUN_INSTALL/bin $PATH
+
