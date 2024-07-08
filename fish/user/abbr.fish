@@ -17,3 +17,4 @@ abbr gad git add
 abbr gme git merge
 abbr gsw git switch
 abbr gbr git branch
+abbr gpus git push
