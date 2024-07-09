@@ -1,0 +1,1 @@
+Linux/Macの.configファイル群
