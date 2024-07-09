@@ -3,8 +3,8 @@ if status --is-interactive
     set PATH /home/linuxbrew/.linuxbrew/bin $PATH
 end
 
-source /opt/homebrew/opt/asdf/libexec/asdf.fish
-source /home/dgelzex/.config/fish/user/abbr.fish
+source /home/linuxbrew/.linuxbrew/opt/asdf/libexec/asdf.fish
+source ~/.config/fish/user/abbr.fish
 
 zoxide init fish | source
 
