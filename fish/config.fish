@@ -5,6 +5,7 @@ end
 
 source /home/linuxbrew/.linuxbrew/opt/asdf/libexec/asdf.fish
 source ~/.config/fish/user/abbr.fish
+source ~/.config/fish/user/alias.fish
 
 zoxide init fish | source
 
