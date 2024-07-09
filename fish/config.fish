@@ -3,14 +3,11 @@ if status --is-interactive
     set PATH /opt/homebrew/bin $PATH
 end
 
-
-
 zoxide init fish | source
 
 set -gx PATH $PATH /opt/nvim-linux64/bin
 
 set -U FZF_LEGACY_KEYBINDINGS 0
-
 
 switch (uname)
     case Darwin
