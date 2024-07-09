@@ -9,11 +9,6 @@ set -gx PATH $PATH /opt/nvim-linux64/bin
 
 set -U FZF_LEGACY_KEYBINDINGS 0
 
-switch (uname)
-    case Darwin
-        source /opt/homebrew/opt/asdf/libexec/asdf.fish
-        source /Users/dgelzex/.config/fish/user/abbr.fish
-    case Linux
-        source ~/.asdf/asdf.fish
-        source ~/.config/fish/user/abbr.fish
-end
+source /opt/homebrew/opt/asdf/libexec/asdf.fish
+source /Users/dgelzex/.config/fish/user/abbr.fish
+
