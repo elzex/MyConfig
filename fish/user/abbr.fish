@@ -14,7 +14,10 @@ abbr dps docker ps
 abbr ginit git init
 abbr gst git status
 abbr gad git add
-abbr gaa git add *
+abbr gdi git diff
+abbr gre git rebase -i HEAD~
+abbr gra git rebase --abort
+abbr gco git commit
 abbr gcm git commit -m
 abbr gme git merge
 abbr gpu git push
