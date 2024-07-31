@@ -18,7 +18,7 @@ abbr gdi git diff
 abbr gre git rebase -i HEAD~
 abbr gra git rebase --abort
 abbr gco git commit
-abbr gcm git commit -m
+abbr gcm git commit -m ""
 abbr gme git merge
 abbr gpu git push
 abbr gbr git branch
