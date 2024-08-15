@@ -14,7 +14,6 @@ abbr dps docker ps
 abbr ginit git init
 abbr gst git status
 abbr gad git add
-abbr gaa git add *
 abbr gcm git commit -m
 abbr gme git merge
 abbr gpu git push
@@ -34,4 +33,4 @@ abbr djmak python manage.py makemigrations
 abbr djmig python manage.py migrate
 abbr djrun python manage.py runserver
 
-abbr coab code ~/.config/fish/user/abbr.fish 
+abbr coab code ~/.config/fish/user/abbr.fish
