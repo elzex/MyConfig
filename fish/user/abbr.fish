@@ -4,12 +4,6 @@ abbr rf exec fish
 abbr rb exec bash
 abbr rz exex zsh
 
-#docker compose 周り
-abbr dcup docker compose up -d
-abbr ddown docker compose down
-abbr mcli docker exec -i 1165_forge_wf rcon-cli
-abbr dps docker ps
-
 # git周り
 abbr ginit git init
 abbr gst git status
@@ -30,11 +24,7 @@ abbr glf git ls-files -v
 # Python関係
 abbr py python
 
-# Django関係
-abbr djmak python manage.py makemigrations
-abbr djmig python manage.py migrate
-abbr djrun python manage.py runserver
-
 abbr coab code ~/.config/fish/user/abbr.fish 
 
-
+# script関係
+abbr rjname python /home/dgelzex/script/rj_rename.py
