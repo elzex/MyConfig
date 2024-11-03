@@ -35,3 +35,5 @@ abbr djmig python manage.py migrate
 abbr djrun python manage.py runserver
 
 abbr coab code ~/.config/fish/user/abbr.fish 
+
+
