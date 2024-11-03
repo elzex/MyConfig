@@ -1,1 +1,1 @@
-Linux/Macの.configファイル群
+各環境の.config
