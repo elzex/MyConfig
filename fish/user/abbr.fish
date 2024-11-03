@@ -17,7 +17,8 @@ abbr gad git add
 abbr gaa git add *
 abbr gcm git commit -m
 abbr gme git merge
-abbr gpu git push
+abbr gps git push
+abbr gpl git pull
 abbr gbr git branch
 abbr gsw git switch
 abbr gau git update-index --assume-unchanged
