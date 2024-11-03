@@ -1,0 +1,1 @@
+wsl用の.config
