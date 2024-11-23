@@ -138,3 +138,15 @@ alias pname='python3 /home/dgelzex/pyScript/picture_rename.py'
 
 # wav2mp3 combine
 alias wmc='python3 /home/dgelzex/pyScript/wav_to_mp3_combine.py'
+
+# ffmpeg
+alias ffmpeg='env PATH=(asdf where python 3.13.0)/bin:$PATH /home/linuxbrew/.linuxbrew/bin/ffmpeg'
+
+function vPy
+    # 仮想環境を有効化
+    source /home/dgelzex/script/.venv/bin/activate.fish
+    # 引数で渡されたコマンドを実行
+    $argv
+    # 仮想環境を無効化
+    deactivate
+end

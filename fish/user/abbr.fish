@@ -27,4 +27,4 @@ abbr py python
 abbr coab code ~/.config/fish/user/abbr.fish 
 
 # script関係
-abbr rjname python /home/dgelzex/script/rj_rename.py
+abbr rjname vPy python /home/dgelzex/script/rj_rename.py
