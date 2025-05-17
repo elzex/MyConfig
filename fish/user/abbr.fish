@@ -8,7 +8,7 @@ abbr rz exex zsh
 abbr ginit git init
 abbr gst git status
 abbr gad git add
-abbr gaa git add *
+abbr gaa "git add ."
 abbr gcm git commit -m
 abbr gme git merge
 abbr gps git push
