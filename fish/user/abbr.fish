@@ -31,7 +31,10 @@ abbr rjname vPy python /home/dgelzex/script/rj_rename.py
 
 # Docker関係
 abbr dps docker ps
-abbr dcom docker compose
-abbr dcud docker compose up -d
+abbr dc docker compose
+abbr dcu docker compose up -d
 abbr dcd docker compose down
+abbr dcst docker compose start
+abbr dcsp docker compose stop
+abbr dcrs docker compose restart
 abbr dlo docker logs -f
