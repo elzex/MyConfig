@@ -28,3 +28,10 @@ abbr coab code ~/.config/fish/user/abbr.fish
 
 # script関係
 abbr rjname vPy python /home/dgelzex/script/rj_rename.py
+
+# Docker関係
+abbr dps docker ps
+abbr dcom docker compose
+abbr dcud docker compose up -d
+abbr dcd docker compose down
+abbr dlo docker logs -f
